@@ -9,9 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "devextreme": "23.1.6",
+    "devextreme-react": "23.1.6",
+    "next": "14.0.1",
     "react": "^18",
-    "react-dom": "^18",
-    "next": "14.0.1"
+    "react-dom": "^18"
   },
   "devDependencies": {
     "eslint": "^8",
